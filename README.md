@@ -18,4 +18,8 @@
 
 我与朋友的对谈记录Telegram电报频道：https://t.me/dui_tan  两个Economist「经济学人」读者的对谈
 
+Lex Fridman播客探讨的Telegram群：https://t.me/my_meta_share_grp
+
+Lex Fridman播客探讨的自动生成英文字幕经粗略整理后的片段存放：https://github.com/Carl-Zhuan-Yuan/Lex-Fridman-Podcast-Chinese-Discussion
+
 也欢迎有兴趣的朋友们通过提交PR的方式，将自动生成的字幕文本慢慢整理成易于阅读的文章形式。
